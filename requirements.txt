@@ -6,7 +6,6 @@ asttokens	==	2.0.8
 attrs	==	22.1.0
 babel	==	2.10.3
 backcall	==	0.2.0
-backports	==	1
 beautifulsoup4	==	4.11.1
 bleach	==	5.0.1
 brotli	==	1.0.9

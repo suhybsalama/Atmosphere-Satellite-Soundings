@@ -7,7 +7,6 @@ attrs	==	22.1.0
 babel	==	2.10.3
 backcall	==	0.2.0
 backports	==	1
-backports.functools_lru_ca	==	che 1.6.4
 beautifulsoup4	==	4.11.1
 bleach	==	5.0.1
 brotli	==	1.0.9
@@ -44,12 +43,6 @@ jinja2	==	3.1.2
 jpeg	==	9e
 json5	==	0.9.5
 jsonschema	==	4.16.0
-jupyter_client	==	7.3.5
-jupyter_core	==	4.11.1
-jupyter_server	==	1.19.1
-jupyterlab	==	3.4.7
-jupyterlab_pygments	==	0.2.2
-jupyterlab_server	==	2.15.2
 kiwisolver	==	1.4.4
 lcms2	==	2.12
 lerc	==	4.0.0
